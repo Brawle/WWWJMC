@@ -1,0 +1,176 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    margin: 0px;
+}
+
+.ban {
+    display: block;
+    margin: auto;
+    width: auto;
+    background-color: black;
+}
+
+img.align-center {
+    display: block;
+    margin: auto;
+}
+
+.bottom {
+    display: block;
+    margin: auto;
+    width: 1600px;
+    
+}
+
+.content {
+    display: block;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: auto;    
+}
+
+.boLeft {
+    display: block;
+    width: 700px;
+    margin: auto;
+    float: left;
+}
+.boLone {
+    display: block;
+    background-image: url();
+    background-color: #514b3b;
+    width: 700px;
+    height: 300px;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.emp {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -135px;
+    height: 400px;
+    width: 600px;
+    background-image: url(../images/emp516.png);
+    z-index: 1;
+}
+
+.emp2 {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -135px;
+    height: 400px;
+    width: 600px;
+    background-image: url(../images/emp148.png);
+    z-index: 1;
+}
+
+
+p.pemp {
+    font-family: sans-serif;
+    padding-left: 30px;
+    width: 350px;
+}
+
+.boRight {
+    float: right;
+}
+
+h2 {
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+h3 {
+    background-color: #221f18;
+    border: solid;
+    border-color: #514b3b;
+    border-width: 6px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+p.boxL {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 19px;
+    
+}
+
+p.boxR {
+    padding: 20px;
+    font-size: 20px;
+}
+
+p.space {
+  margin-top: -.2px;  
+    
+}
+
+.boRight {
+    display: block;
+    margin-top: -20px;
+}
+
+.boRone {
+    width: 400px;
+    height: 285px;
+    margin-right: 200px;
+    padding-bottom: 15px;
+    background-color: #514b3b;
+    background-image: url(../images/bremp.png);
+    background-repeat: no-repeat;
+}
+
+
+
+img.fbpic {
+    margin-left: 300px;
+    bottom: 100px;
+}
+
+.navrow {
+    display: block;
+    width: 1600px;
+    margin: auto;
+}
+
+.nav {
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 24px;
+    margin-top: -35px;
+    margin-left: 1000px;
+    padding-left: 25px;
+    padding-top: 10px;
+
+}
+
+.nav {
+    height: 40px;
+    width: 475px;
+}
+
+.nav {
+    background-image: url("../images/navigator.jpg")
+}
+
+
+
+img.jumbo {
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+}
+
+.jumbotron {
+    width: 1600px;
+    margin: auto;
+}
+
+body {
+    background-image: url("../images/background.png");
+}

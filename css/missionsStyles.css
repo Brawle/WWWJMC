@@ -81,7 +81,7 @@ li.mish {
     height: 600px;
     padding-bottom: 100px;
     background-color: #514b3b;
-    background-image: url();
+    background-image: url(../images/blm.png);
 }
 
 .navrow {
@@ -152,6 +152,4 @@ img.jumbo {
 
 body {
     background-image: url("../images/background.png");
-    background-position: center;
-    background-size: cover;
 }
