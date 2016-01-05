@@ -1,0 +1,157 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    margin: 0px;
+}
+
+.ban {
+    display: block;
+    margin: auto;
+    width: auto;
+    background-color: black;
+}
+
+img.align-center {
+    display: block;
+    margin: auto;
+}
+
+.bottom {
+    display: block;
+    margin: auto;
+    width: 1600px;
+    
+}
+
+.content {
+    display: block;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: auto;    
+}
+
+.boLeft {
+    float: left;
+}
+
+h2 {
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+h3 {
+    background-color: #221f18;
+    border: solid;
+    border-color: #514b3b;
+    border-width: 6px;
+    max-width: 300px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+p.boxL {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 19px;
+    
+}
+
+p.boxR {
+    padding: 20px;
+    font-size: 20px;
+}
+
+p.space {
+  margin-top: -.2px;  
+    
+}
+
+.boLeft {
+    display: block;
+    margin-top: -20px;
+}
+
+li.mish {
+    width: 500px;
+}
+
+.boLone {
+    width: 700px;
+    height: 600px;
+    padding-bottom: 100px;
+    background-color: #514b3b;
+    background-image: url();
+}
+
+.navrow {
+    display: block;
+    width: 1600px;
+    margin: auto;
+}
+
+.nav {
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 24px;
+    margin-top: -35px;
+    margin-left: 1000px;
+    padding-left: 25px;
+    padding-top: 10px;
+
+}
+
+.nav {
+    height: 40px;
+    width: 475px;
+}
+
+.nav {
+    background-image: url("../images/navigator.jpg")
+}
+
+
+
+img.jumbo {
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+}
+
+.mfmrow {
+    display: block;
+    width: 1600px;
+    margin: auto;
+}
+
+
+.mfm {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 1400px;
+    height: 370px;
+    background-image: url(../images/mfmission.png);
+}
+
+.ckn {
+     position: absolute;
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 1400px;
+    height: 370px;
+    background-image: url(../images/chicken.gif);
+}
+
+
+.jumbotron {
+    width: 1600px;
+    margin: auto;
+}
+
+body {
+    background-image: url("../images/background.png");
+    background-position: center;
+    background-size: cover;
+}
