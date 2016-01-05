@@ -31,9 +31,10 @@ img.align-center {
 }
 
 .boLeft {
+    background-image: url(../images/leftfilter.png);
     background-color: #514b3b;
-    width: 400px;
-    height: 460px;
+    width: 500px;
+    height: 497px;
     float: left;
 }
 
@@ -47,20 +48,25 @@ h2 {
 }
 
 h3 {
+    background-color: #221f18;
+    border: solid;
+    border-color: #514b3b;
+    border-width: 6px;
     padding-left: 20px;
-    padding-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 p.boxL {
     padding-left: 20px;
     padding-right: 20px;
-    font-size: 18px;
+    font-size: 19px;
     
 }
 
 p.boxR {
     padding: 20px;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 p.space {
@@ -75,18 +81,23 @@ p.space {
 
 .boRone {
     width: 400px;
+    height: 179px;
     padding-bottom: 15px;
     background-color: #514b3b;
+    background-image: url(../images/bronefilter.png);
 }
 
 .boRtwo {
     width: 400px;
+    height: 270px;
     padding-bottom: 15px;
     background-color: #514b3b;
+    background-image: url(../images/brtwofilter.png)
 }
 
 img.fbpic {
     margin-left: 300px;
+    bottom: 100px;
 }
 
 .navrow {
@@ -112,7 +123,7 @@ img.fbpic {
 }
 
 .nav {
-    background-image: url(/images/navigator.jpg)
+    background-image: url("../images/navigator.jpg")
 }
 
 
@@ -130,5 +141,7 @@ img.jumbo {
 }
 
 body {
-    background-image: url(/images/background.png);
+    background-image: url("../images/background.png");
+    background-position: center;
+    background-size: cover;
 }
